@@ -5,7 +5,7 @@ The purpose of this challenge was to use Javascript, HTML and CSS to create a we
 
 ## Results
 
-![Filters Example](filters.png)
+![Filters Example](https://github.com/csedatole/UFOs/blob/main/static/images/filters.png)
 
 
 ## Summary
